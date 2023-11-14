@@ -1,2 +1,1 @@
-Ceci est un test /n
-avec de lignes
+Ceci est un test
